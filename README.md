@@ -11,3 +11,6 @@ To use Youtube API, need to create Google API and YouTube Data API.
 ## Contents
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 ver 3.7.7
+
+해당 API 이용시, 하나의 영상 당 최대 100개의 댓글만 수집됩니다.  
+When using this API, only up to 100 reviews per video are collected.
