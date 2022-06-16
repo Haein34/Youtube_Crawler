@@ -1,4 +1,4 @@
-# Youtube_Crawler
+# Youtube_Crawler_API
 본 크롤러는 Youtube 댓글을 수집하는 코드를 Functional하게 구현한 것입니다.  
 Youtube API를 이용하기 위해서는 Google API 및 YouTube Data API를 생성해야 합니다.  
 해당 API 이용시, 하나의 영상 당 최대 100개의 댓글만 수집됩니다.  
